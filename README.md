@@ -49,7 +49,7 @@ A robust Spring Boot backend system for managing vaccination centers, appointmen
 ## 🛠️ Setup
 ### Option 1: Local Development (Without DevOps)
 ```bash
-git clone https://github.com/Abhaytomar2004/ImmunizationTracker.git
+git clone https://github.com/atulsingh1704/Immunization-Tracker.git
 cd ImmunizationTracker
 mvn clean install
 # Configure src/main/resources/application.properties
